@@ -14,7 +14,7 @@ software and technology. This method replaces the traditional manual approach of
 in-and-out at PPM, which is often vulnerable to poor documentation.
 #### Documentation RFID Project
  - DB Diagram - https://dbdiagram.io/embed/64270f7d5758ac5f1725d135
- - Figma -  
+ - Figma - https://www.figma.com/file/f7ZUKQ9GAtsCNTbcmumPZG/Untitled?type=design&node-id=78%3A13&t=JMA55EVX0mykGqKV-1
  - Swagger - 
 
 
@@ -23,3 +23,5 @@ in-and-out at PPM, which is often vulnerable to poor documentation.
 ## Credit
 @2023 - IT Team PPM Khoirul Huda Surabaya
  - Muhammad Fath Mushaffa Azhar - fshaaa
+ - Hanif Nabila -
+ - Abdullah Juwan -
